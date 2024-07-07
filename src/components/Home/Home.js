@@ -10,8 +10,6 @@ function Home() {
     <section>
       <br />
       <br />
-      <br />
-      <br />
       <Container fluid className="home-section" id="home">
         <Particle />
         <Container className="home-content">

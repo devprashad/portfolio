@@ -4,7 +4,6 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/Projects/fall.jpg";
 import railway from "../../Assets/Projects/railway.jpg";
-import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/egg.jpg";
 
 function Projects() {
